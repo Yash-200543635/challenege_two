@@ -40,7 +40,7 @@ ol li:nth-child(odd) {
 /* e.) Setting Text Color */
 body {
     color: #333;
-    background-image: url('/task_one-main/photo-1686276701738-bdf4ecbc71b8.webp');
+    background-image: url('/photo-1686276701738-bdf4ecbc71b8.webp');
     background-repeat: no-repeat; /* in order to not to repeat images */
     background-position: center;
     background-size: cover;
